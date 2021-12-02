@@ -24,6 +24,7 @@ std::vector<Card*> Init_Deck() {
 	return deck;
 }
 
+
 int main () {
 	
 	std::vector<Card*> deck = Init_Deck();
